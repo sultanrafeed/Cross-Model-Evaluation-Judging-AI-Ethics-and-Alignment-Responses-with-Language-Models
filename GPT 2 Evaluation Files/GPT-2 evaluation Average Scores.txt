@@ -1,0 +1,20 @@
+Mistral Our Dataset (L+R)
+Mistral Our Dataset (L)
+Mistral Our dataset (Untrained)
+Llama2 Our Dataset (Untrained)
+Llama2 Our Dataset (L)
+scale0: 1
+scale1: 256
+scale2: 0
+scale3: 1
+scale4: 9
+scale5: 233
+Average_scale0:0.002
+Average_scale1:0.512
+Average_scale2:0.0
+
+Average_scale3:0.002
+Average_scale4:0.018
+
+Average_scale5:0.466
+Llama2 Our Dataset (L+R)

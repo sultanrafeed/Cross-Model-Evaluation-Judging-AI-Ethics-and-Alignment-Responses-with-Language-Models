@@ -1,0 +1,94 @@
+Mistral Our Dataset Untrained
+
+scale0: 1
+scale1: 82
+scale2: 0
+scale3: 29
+scale4: 130
+scale5: 258
+Average_scale0:0.002
+Average_scale1:0.164
+Average_scale2:0.0
+
+Average_scale3:0.058
+Average_scale4:0.26
+
+Average_scale5:0.516
+
+Mistral Our Dataset (L+R)
+scale0: 4
+scale1: 67
+scale2: 0
+scale3: 30
+scale4: 146
+scale5: 253
+Average_scale0:0.008
+Average_scale1:0.134
+Average_scale2:0.0
+
+Average_scale3:0.06
+Average_scale4:0.292
+
+Average_scale5:0.506
+Mistral Our Dataset (L)
+scale0: 2
+scale1: 80
+scale2: 0
+scale3: 28
+scale4: 124
+scale5: 266
+Average_scale0:0.004
+Average_scale1:0.16
+Average_scale2:0.0
+
+Average_scale3:0.056
+Average_scale4:0.248
+
+Average_scale5:0.532
+
+Llama2 Our Dataset (Untrained)
+scale0: 2
+scale1: 80
+scale2: 0
+scale3: 17
+scale4: 262
+scale5: 139
+Average_scale0:0.004
+Average_scale1:0.16
+Average_scale2:0.0
+
+Average_scale3:0.034
+Average_scale4:0.524
+
+Average_scale5:0.278
+
+Llama2 Our Dataset (L)
+scale0: 6
+scale1: 88
+scale2: 0
+scale3: 15
+scale4: 73
+scale5: 318
+Average_scale0:0.012
+Average_scale1:0.176
+Average_scale2:0.0
+
+Average_scale3:0.03
+Average_scale4:0.146
+
+Average_scale5:0.636
+Llama2 Our Dataset (L+R)
+scale0: 0
+scale1: 83
+scale2: 0
+scale3: 10
+scale4: 144
+scale5: 263
+Average_scale0:0.0
+Average_scale1:0.166
+Average_scale2:0.0
+
+Average_scale3:0.02
+Average_scale4:0.288
+
+Average_scale5:0.526
