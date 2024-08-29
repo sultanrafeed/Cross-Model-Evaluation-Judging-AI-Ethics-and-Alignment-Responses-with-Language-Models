@@ -48,7 +48,7 @@ To replicate the results, please follow these setup instructions:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-repo-name.git
+    git clone [https://github.com/your-repo-name.git](https://github.com/sultanrafeed/Cross-Model-Evaluation-Judging-AI-Ethics-and-Alignment-Responses-with-Language-Models.git)
     cd your-repo-name
     ```
 
